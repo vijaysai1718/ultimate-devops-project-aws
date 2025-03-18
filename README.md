@@ -1,1 +1,6 @@
 # ultimate-devops-project-usingAWS
+A detailed documentation along with architecture diagram of the project is shared in the below link.
+```
+https://opentelemetry.io/docs/demo/
+
+```
